@@ -1,7 +1,16 @@
-﻿namespace Blazor.Servicios
+﻿using Blazor.Interfaces;
+using Entidades;
+
+namespace Blazor.Servicios
 {
-    public class LoginServicio
+    public class LoginServicio : ILoginServicio
     {
-        public Task<bool> ValidarUsuario(Login login);
+
+
+
+        public Task<bool> ValidarUsuario(Login login)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

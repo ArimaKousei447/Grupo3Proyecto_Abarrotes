@@ -1,4 +1,5 @@
-﻿
+﻿using Entidades;
+
 namespace Datos.Interfaces
 {
     public interface ILoginRepositorio
