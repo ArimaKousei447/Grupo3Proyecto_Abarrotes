@@ -1,6 +1,6 @@
 ﻿using Dapper;
 using Datos.Interfaces;
-using Entidades;
+using Modelos;
 using MySql.Data.MySqlClient;
 
 namespace Datos.Repositorios
@@ -33,6 +33,11 @@ namespace Datos.Repositorios
             {
             }
             return valido;
+        }
+
+        public Task<bool> ValidarUsuario(Login login)
+        {
+            throw new NotImplementedException();
         }
     }
 }

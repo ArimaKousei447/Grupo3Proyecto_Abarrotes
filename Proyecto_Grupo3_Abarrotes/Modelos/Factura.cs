@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Entidades
+namespace Modelos
 {
     public class Factura
     {
@@ -19,14 +19,15 @@ namespace Entidades
 
         public Factura(int id, DateTime fecha, string identidadCliente, string codigoUsuario, decimal iSV, decimal descuento, decimal subTotal, decimal total)
         {
-            Id=id;
-            Fecha=fecha;
-            IdentidadCliente=identidadCliente;
-            CodigoUsuario=codigoUsuario;
-            ISV=iSV;
-            Descuento=descuento;
-            SubTotal=subTotal;
-            Total=total;
+            Id = id;
+            Fecha = fecha;
+            IdentidadCliente = identidadCliente;
+            CodigoUsuario = codigoUsuario;
+            ISV = iSV;
+            Descuento = descuento;
+            SubTotal = subTotal;
+            Total = total;
         }
     }
+
 }

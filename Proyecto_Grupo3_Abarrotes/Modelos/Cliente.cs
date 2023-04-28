@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Entidades
+﻿namespace Modelos
 {
     public class Cliente
     {
@@ -27,4 +25,5 @@ namespace Entidades
             EstaActivo=estaActivo;
         }
     }
+
 }

@@ -1,6 +1,6 @@
 ﻿using Dapper;
 using Datos.Interfaces;
-using Entidades;
+using Modelos;
 using MySql.Data.MySqlClient;
 
 namespace Datos.Repositorios
@@ -103,6 +103,26 @@ namespace Datos.Repositorios
             {
             }
             return resultado;
+        }
+
+        public Task<bool> NuevoAsync(Usuario user)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> ActualizarAsync(Usuario user)
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<IEnumerable<Usuario>> IUsuarioRepositorio.GetListaAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        Task<Usuario> IUsuarioRepositorio.GetPorCodigoAsync(string codigoUsuario)
+        {
+            throw new NotImplementedException();
         }
     }
 }

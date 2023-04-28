@@ -1,4 +1,4 @@
-﻿namespace Entidades
+﻿namespace Modelos
 {
     public class DetalleFactura
     {
@@ -25,4 +25,5 @@
             Total=total;
         }
     }
+
 }
