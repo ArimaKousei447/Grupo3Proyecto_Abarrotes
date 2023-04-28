@@ -1,6 +1,5 @@
 ﻿using Dapper;
 using Datos.Interfaces;
-using Entidades;
 using MySql.Data.MySqlClient;
 
 namespace Datos.Repositorios
