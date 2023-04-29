@@ -31,7 +31,24 @@ else
                     <td>@user.FechaCreacion</td>
                     <td>@user.Rol</td>
                     <td>@user.Foto</td>
-                    <td>@user.EstaActivo</td>
+                    @if (user.EstaActivo)
+                    {
+                        <td>
+                            <span class="oi oi-circle-check" style="color:green;"></span>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <span class="oi oi-circle-x" style="color:red;"></span>
+                        </td>
+                    }
+
+                    <th>
+                        <a class="btn btn-success" href="@($"/Usuarios/Editar/{user.CodigoUsuario}")">Editar</a>
+                    </th>
+
+
                 </tr>
 
             }

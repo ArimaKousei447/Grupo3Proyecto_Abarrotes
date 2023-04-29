@@ -35,9 +35,5 @@ namespace Datos.Repositorios
             return valido;
         }
 
-        public Task<bool> ValidarUsuario(Login login)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

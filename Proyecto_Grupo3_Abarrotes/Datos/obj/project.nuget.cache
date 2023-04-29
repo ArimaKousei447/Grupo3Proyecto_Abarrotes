@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "PTSmIHe9Wgo9wfp/WgMQ6blVIIwapCfPpNbwjwZDrJFclhU34QsxqpKzuBlGPNYpi7SBW0tSussuAqx9Vx3CYQ==",
-  "success": false,
+  "dgSpecHash": "ZKypbzLDiZRCnjqhLuAwSkSH+Fozat87gfp9BY16FkBFAfGAYFcxf/KMAPeUuL0RZUA0Z8nY07cQiVVxK9lP8A==",
+  "success": true,
   "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
@@ -36,15 +36,5 @@
     "C:\\Users\\kevin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Datos -> Datos.",
-      "libraryId": "Datos",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

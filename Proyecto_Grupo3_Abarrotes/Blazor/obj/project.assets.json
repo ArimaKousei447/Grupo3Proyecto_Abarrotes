@@ -527,7 +527,6 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Dapper": "2.0.123",
-          "Datos": "1.0.0",
           "Modelos": "1.0.0",
           "MySql.Data": "8.0.33"
         },
@@ -1840,16 +1839,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Blazor -> Datos -> Datos.",
-      "libraryId": "Datos",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }

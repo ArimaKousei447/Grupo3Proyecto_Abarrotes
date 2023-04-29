@@ -1749,7 +1749,6 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Dapper >= 2.0.123",
-      "Datos >= 1.0.0",
       "Modelos >= 1.0.0",
       "MySql.Data >= 8.0.33"
     ]
@@ -1781,9 +1780,6 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj"
-            },
             "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj": {
               "projectPath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj"
             }
@@ -1828,16 +1824,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Datos -> Datos.",
-      "libraryId": "Datos",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  }
 }

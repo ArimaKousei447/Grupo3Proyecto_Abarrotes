@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "jyBaPtUxvATuZUmI8iMWQvQTcZ0qxY1WxnLkHSAiRsQcdpdsn1NP5Zozf6y4LH2+aPhm2WFe3MW7OfuXUKAz+Q==",
-  "success": false,
+  "dgSpecHash": "QhFbLw9ba4tFPrpxlYTObHYHAM1pxq2gdtbV5s7Q38GxvA/4vN5CSScjXJ1ElSKtEXqvxXnc5y/QaL1oKugw3w==",
+  "success": true,
   "projectFilePath": "C:\\Users\\kevin\\OneDrive\\Documentos\\Lenguaje 3 Git\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\Blazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kevin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
@@ -36,15 +36,5 @@
     "C:\\Users\\kevin\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\kevin\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1108",
-      "level": "Error",
-      "message": "Ciclo detectado. \r\n  Blazor -> Datos -> Datos.",
-      "libraryId": "Datos",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

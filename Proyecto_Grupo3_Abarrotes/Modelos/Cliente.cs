@@ -1,4 +1,6 @@
-﻿namespace Modelos
+﻿using System;
+
+namespace Modelos
 {
     public class Cliente
     {
@@ -16,13 +18,13 @@
 
         public Cliente(string identidad, string nombre, string telefono, string correo, string direccion, DateTime fechaNacimiento, bool estaActivo)
         {
-            Identidad=identidad;
-            Nombre=nombre;
-            Telefono=telefono;
-            Correo=correo;
-            Direccion=direccion;
-            FechaNacimiento=fechaNacimiento;
-            EstaActivo=estaActivo;
+            Identidad = identidad;
+            Nombre = nombre;
+            Telefono = telefono;
+            Correo = correo;
+            Direccion = direccion;
+            FechaNacimiento = fechaNacimiento;
+            EstaActivo = estaActivo;
         }
     }
 
