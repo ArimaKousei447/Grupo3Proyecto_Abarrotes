@@ -71,6 +71,5 @@ namespace Blazor.Controllers
             return LocalRedirect("/Ingreso");
         }
 
-
     }
 }
