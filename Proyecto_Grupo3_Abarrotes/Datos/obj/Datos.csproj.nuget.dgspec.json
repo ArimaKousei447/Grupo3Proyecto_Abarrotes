@@ -1,40 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj": {}
+    "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj": {
+    "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj",
+        "projectUniqueName": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj",
         "projectName": "Datos",
-        "projectPath": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj",
-        "packagesPath": "C:\\Users\\S.T\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\obj\\",
+        "projectPath": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\Palacios\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.1.35\\ToolboxNuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\S.T\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Palacios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\21.1.35\\NuGetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj": {
-                "projectPath": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj"
+              "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj": {
+                "projectPath": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj"
               }
             }
           }
@@ -78,29 +78,29 @@
         }
       }
     },
-    "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj": {
+    "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj",
         "projectName": "Modelos",
-        "projectPath": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj",
-        "packagesPath": "C:\\Users\\S.T\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S.T\\OneDrive\\Documentos\\Proyecto Abarrotes L3\\Grupo3Proyecto_Abarrotes\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\obj\\",
+        "projectPath": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\Modelos.csproj",
+        "packagesPath": "C:\\Users\\Palacios\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Palacios\\Desktop\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Modelos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WPF\\21.1.35\\ToolboxNuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\S.T\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Palacios\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files (x86)\\Syncfusion\\Essential Studio\\WinUI\\21.1.35\\NuGetPackages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
