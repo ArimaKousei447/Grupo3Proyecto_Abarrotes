@@ -27,12 +27,13 @@ namespace Blazor.Pages.MisUsuarios
 
         protected async void Guardar()
         {
-            if (string.IsNullOrWhiteSpace(user.CodigoUsuario) || string.IsNullOrWhiteSpace(user.Nombre)
-                || string.IsNullOrWhiteSpace(user.Contrasena) || string.IsNullOrWhiteSpace(user.Rol)
-                || user.Rol == "Seleccionar")
+            if (string.IsNullOrWhiteSpace(user.CodigoUsuario) || string.IsNullOrWhiteSpace(user.Nombre)||
+                string.IsNullOrWhiteSpace(user.Contrasena) || string.IsNullOrWhiteSpace(user.Rol)|| user.Rol == "Seleccionar")
+                
             {
                 return;
             }
+
             user.FechaCreacion = DateTime.Now;
             bool inserto = await usuarioServicio.NuevoAsync(user);
 

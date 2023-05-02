@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jeg4z2tpt64jQ+cYlRLyCREP3f6YT7BsSjHeCX6VkPo=",
+  "Hash": "ksK0oS3mPAe2o2XxAg6aTWIagr7CXw5HKJZAlwg9rNY=",
   "Source": "Blazor",
   "BasePath": "_content/Blazor",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Blazor\\wwwroot",
       "Source": "Blazor",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.js",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bootstrap4Theme.min.js",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bootstrap4Theme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.css",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.js",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.min.css",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "borderlessTheme.min.js",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\borderlessTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.css",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.js",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.min.css",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "bulmaTheme.min.js",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\bulmaTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.css",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.js",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.min.css",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "darkTheme.min.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\darkTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.css",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.min.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "defaultTheme.min.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\defaultTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.css",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.min.css",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "materialUITheme.min.js",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\materialUITheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.css",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.min.css",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "minimalTheme.min.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\minimalTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "sweetAlert2.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "sweetAlert2.min.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\sweetAlert2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.css",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.js",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.css",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.css",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.min.css",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.js",
+      "Identity": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.js",
       "SourceId": "CurrieTechnologies.Razor.SweetAlert2",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\",
       "BasePath": "_content/CurrieTechnologies.Razor.SweetAlert2",
       "RelativePath": "wordpressAdminTheme.min.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.js"
+      "OriginalItemSpec": "C:\\Users\\S.T\\.nuget\\packages\\currietechnologies.razor.sweetalert2\\5.5.0\\staticwebassets\\wordpressAdminTheme.min.js"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Blazor.styles.css",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Blazor.styles.css",
       "SourceId": "Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "Blazor.styles.css",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Blazor.styles.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Blazor.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blazor.bundle.scp.css",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blazor.bundle.scp.css",
       "SourceId": "Blazor",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "Blazor.bundle.scp.css",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blazor.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blazor.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\css\\site.css",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\favicon.png",
       "SourceId": "Blazor",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Palacios\\Source\\Repos\\Grupo3Proyecto_Abarrotes\\Nueva carpeta\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\S.T\\OneDrive\\Documentos\\lenguaje 3\\Grupo3Proyecto_Abarrotes\\Proyecto_Grupo3_Abarrotes\\Blazor\\wwwroot\\",
       "BasePath": "_content/Blazor",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

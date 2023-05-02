@@ -7,6 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\MisProductos\Productos.razor" />
+    <Content Remove="Pages\MisUsuarios\EditForm.razor" />
     <Content Remove="Pages\MisUsuarios\NuevoUsuario.razor" />
   </ItemGroup>
 
@@ -24,11 +26,18 @@
   </ItemGroup>
 
   <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\MisUsuarios\EditForm.razor" />
     <_ContentIncludedByDefault Remove="Pages\MisUsuarios\NuevoUsuario.razor" />
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="Pages\MisProductos\Productos.razor" />
+    <None Include="Pages\MisUsuarios\EditForm.razor" />
     <None Include="Pages\MisUsuarios\NuevoUsuario.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\MisUsuarios\EditForm.razor" />
   </ItemGroup>
 
 </Project>
