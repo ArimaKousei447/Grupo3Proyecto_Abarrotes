@@ -9,65 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blazor
 build_property.RootNamespace = Blazor
-build_property.ProjectDir = C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Blazor\
+build_property.ProjectDir = C:\Users\kevin\OneDrive\Documentos\Lenguaje 3 Git\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Blazor\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Blazor
+build_property.MSBuildProjectDirectory = C:\Users\kevin\OneDrive\Documentos\Lenguaje 3 Git\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/App.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Index.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Facturacion/NuevaFactura.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdHVyYWNpb25cTnVldmFGYWN0dXJhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Ingreso.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Ingreso.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5ncmVzby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/EditarProducto.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/EditarProducto.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzUHJvZHVjdG9zXEVkaXRhclByb2R1Y3RvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/NuevoProducto.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/NuevoProducto.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzUHJvZHVjdG9zXE51ZXZvUHJvZHVjdG8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/Productos.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisProductos/Productos.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzUHJvZHVjdG9zXFByb2R1Y3Rvcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisUsuarios/EditarUsuario.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisUsuarios/EditarUsuario.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzVXN1YXJpb3NcRWRpdGFyVXN1YXJpby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisUsuarios/Usuarios.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/MisUsuarios/Usuarios.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzVXN1YXJpb3NcVXN1YXJpb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Principal.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Principal.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpbmNpcGFsLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/_Imports.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Shared/MainLayout.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-r0yqwuvdyg
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Shared/NavMenu.razor]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6hj6azdo60
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Error.cshtml]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/S.T/OneDrive/Documentos/lenguaje 3/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/_Host.cshtml]
+[C:/Users/kevin/OneDrive/Documentos/Lenguaje 3 Git/Grupo3Proyecto_Abarrotes/Proyecto_Grupo3_Abarrotes/Blazor/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

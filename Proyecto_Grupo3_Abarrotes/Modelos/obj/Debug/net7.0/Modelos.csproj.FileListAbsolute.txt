@@ -22,15 +22,3 @@ C:\Users\Palacios\source\repos\Grupo3Proyecto_Abarrotes\Nueva carpeta\Proyecto_G
 C:\Users\Palacios\source\repos\Grupo3Proyecto_Abarrotes\Nueva carpeta\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\refint\Modelos.dll
 C:\Users\Palacios\source\repos\Grupo3Proyecto_Abarrotes\Nueva carpeta\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.pdb
 C:\Users\Palacios\source\repos\Grupo3Proyecto_Abarrotes\Nueva carpeta\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\ref\Modelos.dll
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\bin\Debug\net7.0\Modelos.deps.json
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\bin\Debug\net7.0\Modelos.dll
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\bin\Debug\net7.0\Modelos.pdb
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.csproj.AssemblyReference.cache
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfoInputs.cache
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.AssemblyInfo.cs
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.csproj.CoreCompileInputs.cache
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.dll
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\refint\Modelos.dll
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\Modelos.pdb
-C:\Users\S.T\OneDrive\Documentos\lenguaje 3\Grupo3Proyecto_Abarrotes\Proyecto_Grupo3_Abarrotes\Modelos\obj\Debug\net7.0\ref\Modelos.dll
