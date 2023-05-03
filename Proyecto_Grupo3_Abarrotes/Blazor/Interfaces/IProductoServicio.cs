@@ -9,6 +9,9 @@ namespace Blazor.Interfaces
         Task<bool> Eliminar(string codigo);
         Task<IEnumerable<Producto>> GetLista();
         Task<Producto> GetPorCodigo(string codigo);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
     }
 }

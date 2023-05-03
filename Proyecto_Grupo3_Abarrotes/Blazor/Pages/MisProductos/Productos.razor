@@ -1,5 +1,9 @@
 ﻿@page "/Productos"
+<<<<<<< HEAD
 @using Modelos
+=======
+@using Modelos;
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
 
 <AuthorizeView Roles="Administrador">
     <Authorized Context="AuthenticationState"> 
@@ -11,7 +15,11 @@
 			</div>		
 		</div>
 
+<<<<<<< HEAD
         @if(listaProductos == null)
+=======
+        @if (list)
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
         {
             <p>No existen productos en el sistema</p>
         }
@@ -29,7 +37,11 @@
                      </tr>
                  </thead>
                  <tbody>
+<<<<<<< HEAD
                      @foreach(Producto prod in listaProductos)
+=======
+                     @foreach(Producto prod in )
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
                     {
                         <tr>
                             <th>@prod.Codigo</th>

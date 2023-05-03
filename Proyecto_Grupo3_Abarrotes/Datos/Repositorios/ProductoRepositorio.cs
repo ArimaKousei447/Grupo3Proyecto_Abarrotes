@@ -7,12 +7,21 @@ namespace Datos.Repositorios
 {
     public class ProductoRepositorio : IProductoRepositorio
     {
+
         private string CadenaConexion;
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
         public ProductoRepositorio(string _cadenaConexion)
         {
             CadenaConexion = _cadenaConexion;
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
         private MySqlConnection Conexion()
         {
             return new MySqlConnection(CadenaConexion);
@@ -35,6 +44,10 @@ namespace Datos.Repositorios
             return resultado;
         }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
         public async Task<bool> Eliminar(string codigo)
         {
             bool resultado = false;
@@ -103,4 +116,6 @@ namespace Datos.Repositorios
 
 
     }
+
+
 }

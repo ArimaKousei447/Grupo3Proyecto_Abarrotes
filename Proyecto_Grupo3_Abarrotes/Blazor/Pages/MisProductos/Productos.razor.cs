@@ -9,6 +9,10 @@ namespace Blazor.Pages.MisProductos
         [Inject] IProductoServicio productoServicio { get; set; }
         IEnumerable<Producto> listaProductos { get; set; }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 436537307f44024e9550e046a4c449f1878a2dd5
         protected override async Task OnInitializedAsync()
         {
             listaProductos = await productoServicio.GetLista();

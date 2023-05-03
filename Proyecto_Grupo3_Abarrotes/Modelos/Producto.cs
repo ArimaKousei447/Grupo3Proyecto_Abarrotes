@@ -19,12 +19,12 @@ namespace Modelos
 
         public Producto(string codigo, string descripcion, int existencia, decimal precio, byte[] foto, bool estaActivo)
         {
-            Codigo=codigo;
-            Descripcion=descripcion;
-            Existencia=existencia;
-            Precio=precio;
-            Foto=foto;
-            EstaActivo=estaActivo;
+            Codigo = codigo;
+            Descripcion = descripcion;
+            Existencia = existencia;
+            Precio = precio;
+            Foto = foto;
+            EstaActivo = estaActivo;
         }
     }
 
