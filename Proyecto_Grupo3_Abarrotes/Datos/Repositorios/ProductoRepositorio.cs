@@ -8,13 +8,14 @@ namespace Datos.Repositorios
     public class ProductoRepositorio : IProductoRepositorio
     {
         private string CadenaConexion;
+
+        public ProductoRepositorio(string _cadenaConexion)
+        {
+            CadenaConexion = _cadenaConexion;
+        }
         private MySqlConnection Conexion()
         {
             return new MySqlConnection(CadenaConexion);
-        }
-        public ProductoRepositorio(string _cadenaConexion)
-        {
-          CadenaConexion = _cadenaConexion;
         }
 
         public async Task<bool> Actualizar(Producto producto)
@@ -24,9 +25,8 @@ namespace Datos.Repositorios
             {
                 using MySqlConnection _conexion = Conexion();
                 await _conexion.OpenAsync();
-                string sql = @"UPDATE producto SET Codigo = @Codigo, Descripcion = @Descripcion, 
-                             Existencia = @Existencia, Precio = @Precio, Foto = @Foto, 
-                             EstaActivo= @EstaActivo  WHERE Codigo = @CodigoU;";
+                string sql = @"UPDATE producto SET Descripcion = @Descripcion, Existencia = @Existencia,
+                               Precio = @Precio, Foto = @Foto, EstaActivo = @EstaActivo WHERE Codigo = @Codigo;";
                 resultado = Convert.ToBoolean(await _conexion.ExecuteAsync(sql, producto));
             }
             catch (Exception)
@@ -35,7 +35,7 @@ namespace Datos.Repositorios
             return resultado;
         }
 
-        public async Task<bool> Eliminar(int codigo)
+        public async Task<bool> Eliminar(string codigo)
         {
             bool resultado = false;
             try
@@ -67,7 +67,7 @@ namespace Datos.Repositorios
             return lista;
         }
 
-        public async Task<Producto> GetPorCodigo(int codigo)
+        public async Task<Producto> GetPorCodigo(string codigo)
         {
             Producto producto = new Producto();
             try
@@ -75,7 +75,7 @@ namespace Datos.Repositorios
                 using MySqlConnection _conexion = Conexion();
                 await _conexion.OpenAsync();
                 string sql = @"SELECT * FROM producto WHERE Codigo = @Codigo;";
-                producto = await _conexion.QueryFirstAsync<Producto>(sql, new { codigo});
+                producto = await _conexion.QueryFirstAsync<Producto>(sql, new { codigo });
             }
             catch (Exception)
             {
@@ -90,8 +90,8 @@ namespace Datos.Repositorios
             {
                 using MySqlConnection _conexion = Conexion();
                 await _conexion.OpenAsync();
-                string sql = @"Insert INTO producto (Codigo,Descripcion,Existencia,Precio,Foto,EstaActivo
-                            VALUES(@Codigo,@Descripcion,@Existencia,@Precio,@Foto,@EstaActivo)";
+                string sql = @"INSERT INTO producto (Codigo,Descripcion,Existencia,Precio,Foto,EstaActivo) 
+                                VALUES (@Codigo,@Descripcion,@Existencia,@Precio,@Foto,@EstaActivo);";
                 resultado = Convert.ToBoolean(await _conexion.ExecuteAsync(sql, producto));
             }
             catch (Exception)
@@ -99,6 +99,8 @@ namespace Datos.Repositorios
             }
             return resultado;
         }
+
+
 
     }
 }

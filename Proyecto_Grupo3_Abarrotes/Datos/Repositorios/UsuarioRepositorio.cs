@@ -7,20 +7,17 @@ namespace Datos.Repositorios
 {
     public class UsuarioRepositorio : IUsuarioRepositorio
     {
-
         private string CadenaConexion;
 
         public UsuarioRepositorio(string _cadenaConexion)
         {
-            CadenaConexion = _cadenaConexion;
+            CadenaConexion=_cadenaConexion;
         }
 
         private MySqlConnection Conexion()
         {
             return new MySqlConnection(CadenaConexion);
         }
-
-
 
 
         public async Task<bool> ActualizarAsync(Usuario user)

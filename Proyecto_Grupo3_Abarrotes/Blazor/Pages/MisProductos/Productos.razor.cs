@@ -7,9 +7,11 @@ namespace Blazor.Pages.MisProductos
     public partial class Productos
     {
         [Inject] IProductoServicio productoServicio { get; set; }
+        IEnumerable<Producto> listaProductos { get; set; }
 
-        IEnumerable<Producto> ListaProductos { get; set; }
-
-        protected override async Task OnInitializedAsync() => ListaProductos = await productoServicio.GetLista();
+        protected override async Task OnInitializedAsync()
+        {
+            listaProductos = await productoServicio.GetLista();
+        }
     }
 }
