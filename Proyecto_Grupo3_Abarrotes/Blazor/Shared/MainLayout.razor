@@ -10,16 +10,16 @@
     <main>
         <div class="top-row px-4">
             <AuthorizeView>
-               <Authorized>
+                <Authorized>
                     <span class="ml-md-auto">
                         Usuario Conectado: @context.User.Claims.First().Value
                         <a href="/Salir">Salir</a>
                     </span>
-               </Authorized>
-               <NotAuthorized>
+                </Authorized>
+                <NotAuthorized>
                     <a href="Ingreso" style="font-size:24px; font-weight:700" class="ml-md-auto">Iniciar Sesión</a>
-               </NotAuthorized>
-               
+                </NotAuthorized>
+
             </AuthorizeView>
         </div>
 

@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace Modelos
 {
@@ -20,14 +21,14 @@ namespace Modelos
 
         public Usuario(string codigoUsuario, string nombre, string contrasena, string correo, DateTime fechaCreacion, string rol, byte[] foto, bool estaActivo)
         {
-            CodigoUsuario=codigoUsuario;
-            Nombre=nombre;
-            Contrasena=contrasena;
-            Correo=correo;
-            FechaCreacion=fechaCreacion;
-            Rol=rol;
-            Foto=foto;
-            EstaActivo=estaActivo;
+            CodigoUsuario = codigoUsuario;
+            Nombre = nombre;
+            Contrasena = contrasena;
+            Correo = correo;
+            FechaCreacion = fechaCreacion;
+            Rol = rol;
+            Foto = foto;
+            EstaActivo = estaActivo;
         }
     }
 

@@ -11,9 +11,8 @@ namespace Blazor.Pages.MisUsuarios
         [Inject] private IUsuarioServicio usuarioServicio { get; set; }
         [Inject] private NavigationManager navigationManager { get; set; }
         [Inject] private SweetAlertService Swal { get; set; }
-
         private Usuario user = new Usuario();
-
+        [Parameter] public string CodigoUsuario { get; set; }
         string imgUrl = string.Empty;
 
         private async Task SeleccionarImagen(InputFileChangeEventArgs e)
@@ -23,14 +22,14 @@ namespace Blazor.Pages.MisUsuarios
             user.Foto = buffers;
             await imgFile.OpenReadStream().ReadAsync(buffers);
             string imageType = imgFile.ContentType;
-            imgUrl = $"data:{imageType};base64,{Convert.ToBase64String(buffers)}";
+            imgUrl = $"data:{imageType}; base64,{Convert.ToBase64String(buffers)}";
         }
 
         protected async void Guardar()
         {
-            if (string.IsNullOrWhiteSpace(user.CodigoUsuario) ||  string.IsNullOrWhiteSpace(user.Nombre)
-                ||  string.IsNullOrWhiteSpace(user.Contrasena)  ||  string.IsNullOrWhiteSpace(user.Rol)
-                ||  user.Rol == "Seleccionar")
+            if (string.IsNullOrWhiteSpace(user.CodigoUsuario) || string.IsNullOrWhiteSpace(user.Nombre)
+                || string.IsNullOrWhiteSpace(user.Contrasena) || string.IsNullOrWhiteSpace(user.Rol)
+                || user.Rol == "Seleccionar")
             {
                 return;
             }
@@ -43,13 +42,43 @@ namespace Blazor.Pages.MisUsuarios
             }
             else
             {
-                await Swal.FireAsync("Error", "No se pudo guardar el usuario", SweetAlertIcon.Error);
+                await Swal.FireAsync("Error", "No se  pudo guardar el usuario", SweetAlertIcon.Error);
             }
-
         }
+
         protected async void Cancelar()
         {
             navigationManager.NavigateTo("/Usuarios");
+        }
+        protected async void Eliminar()
+        {
+            bool elimino = false;
+            SweetAlertResult result = await Swal.FireAsync(new SweetAlertOptions
+            {
+                Title = "¿Seguro que desea eliminar el usuario?",
+                Text = "You will not be able to recover this imaginary file!",
+                Icon = SweetAlertIcon.Question,
+                ShowCancelButton = true,
+                ConfirmButtonText = "Aceptar",
+                CancelButtonText = "Cancelar"
+            });
+            if (!string.IsNullOrEmpty(result.Value))
+            {
+                elimino = await usuarioServicio.EliminarAsync(user.CodigoUsuario);
+                if (elimino)
+                {
+                    if (elimino)
+                    {
+                        await Swal.FireAsync("Felicidades", "Usuario Eliminado", SweetAlertIcon.Success);
+                        navigationManager.NavigateTo("/Usuarios");
+                    }
+                    else
+                    {
+                        await Swal.FireAsync("Error", "No se  pudo eliminar el usuario", SweetAlertIcon.Error);
+                    }
+
+                }
+            }
         }
 
     }
